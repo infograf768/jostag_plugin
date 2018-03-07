@@ -15,8 +15,9 @@
 		<filename plugin="jostag">index.html</filename>
 		<folder>language</folder>
 	</files>
-</extension>
 
 <updateservers>
 		<server type="extension" priority="1" name="Jostag Update Site">https://raw.githubusercontent.com/infograf768/jostag_plugin/master/update-server.xml</server>
 </updateservers>
+
+</extension>
