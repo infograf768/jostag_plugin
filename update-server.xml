@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <updates>
 	<update>
-		<name>jostag_plugin</name>
+		<name>plg_content_jostag</name>
 		<description>Content plugin to add a tag in the document head.</description>
 		<element>jostag</element>
 		<type>plugin</type>
