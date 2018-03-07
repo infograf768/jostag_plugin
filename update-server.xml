@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+	<update>
+		<name>jostag_plugin</name>
+		<description>Content plugin to add a tag in the document head.</description>
+		<element>jostag</element>
+		<type>plugin</type>
+		<version>5.0.0</version>
+		<infourl title="jostag_plugin">https://github.com/infograf768/jostag_plugin/</infourl>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/infograf768/jostag_plugin/releases/download/5.0.0/jostag_plugin-5.0.0.zip</downloadurl>
+		</downloads>
+		<targetplatform name="joomla" version=".*" />
+	</update>
+</updates>
