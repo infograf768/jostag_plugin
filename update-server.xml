@@ -6,6 +6,7 @@
 		<element>jostag</element>
 		<type>plugin</type>
 		<folder>content</folder>
+		<client>0</client>
 		<version>3.0.0</version>
 		<infourl title="jostag_plugin">https://github.com/infograf768/jostag_plugin/</infourl>
 		<downloads>
